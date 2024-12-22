@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+<channel>
+
+<title>RSS站點標題</title>
+<description>站點說明</description>
+<link>不確定是用來作甚麼用的連結點</link>
+
+<item>
+<title>item是作為每個站點的封包單位</title>
+<description>此封包可包含多行的說明內文</description>
+<link>此封包可以包含URL，但URL如果有像是and的符號要替換成xml格式</link>
+</item>
+
+</channel>
+</rss>
